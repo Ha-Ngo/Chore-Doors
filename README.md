@@ -1,1 +1,1 @@
-This is a project following Codecademy Web Development course.
+This is a simple game following Codecademy Web Development course.
